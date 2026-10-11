@@ -1,0 +1,6 @@
+*.log
+*.tmp
+node_modules/
+__pycache__/
+ignore_text.txt
+temp/
